@@ -5,7 +5,7 @@
 ---
 
 ### 🎓 About Me
-I’m an ambitious Communication & Technology Engineering student at the **Arab Academy for Science, Technology and Maritime Transport (AASTMT)** with a **GPA of 3.63 / 4.0**.  
+I’m an ambitious Communication & Technology Engineering student at the **Arab Academy for Science, Technology and Maritime Transport (AASTMT)** with a **GPA of 3.7 / 4.0**.  
 I enjoy working on **smart systems, communication circuits, and embedded solutions**, and I’m always eager to learn, build, and improve.
 
 Over the past few years, I’ve:
